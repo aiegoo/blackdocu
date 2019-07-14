@@ -1,4 +1,4 @@
-# BlackDoc
+# Journal
 
 ![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
 
@@ -45,7 +45,7 @@ ruby 2.2.5
 Install bundler and install dependencies.
 
 ```bash
-$ gem install bundler
+$ gem install bundler -v '1.17.3'
 $ bundle install
 ```
 
