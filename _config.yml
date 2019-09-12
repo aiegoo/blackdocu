@@ -4,16 +4,16 @@ highlighter:      rouge
 
 # Setup
 title:            tonylee 
-tagline:          Black Theme for Jekyll
+tagline:          Seasoned webDevOps
 description:      "hmmm"
-url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /
+url:              aiegoo.github.io
+baseurl:          /blackdocu
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           tonylee
+  url:            https://github.com/aiegoo
 
 paginate:         5
 # paginate_path:    '/page:num'
