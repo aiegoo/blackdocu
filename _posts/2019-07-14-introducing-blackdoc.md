@@ -3,8 +3,8 @@ layout: post
 title: Daily Task Summary  
 ---
 # Monday, July 15, 2019
-- MEMO: submodule & subtree https://stackoverflow.com/questions/41735992/how-can-i-mirror-a-directory-in-a-git-repo-into-another-git-repo
-- MEMO: filter branch forum https://github.community/t5/How-to-use-Git-and-GitHub/Adding-a-folder-from-one-repo-to-another/td-p/5425
+- MEMO: [submodule & subtree](https://stackoverflow.com/questions/41735992/how-can-i-mirror-a-directory-in-a-git-repo-into-another-git-repo)
+- MEMO: [filter branch forum](https://github.community/t5/How-to-use-Git-and-GitHub/Adding-a-folder-from-one-repo-to-another/td-p/5425)
 
 ## Tasks
 
