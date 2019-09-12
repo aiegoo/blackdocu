@@ -7,7 +7,7 @@ title:            tonylee
 tagline:          Seasoned webDevOps
 description:      "hmmm"
 url:              aiegoo.github.io
-baseurl:          /blackdocu
+baseurl:          /blackdocu/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
