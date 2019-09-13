@@ -11,13 +11,13 @@ collections:
 markdown: kramdown
 highlighter: rouge
 tagline: Seasoned webDevOps
-description: hmmm
+description: 01050446037
 url: aiegoo.github.io
 baseurl: "/blackdocu/"
 author:
   name: tonylee
   url: https://github.com/aiegoo
-paginate: 5
+paginate: 1
 plugins:
 - jekyll-feed
 - jekyll-gist
