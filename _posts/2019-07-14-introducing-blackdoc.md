@@ -2,15 +2,13 @@
 layout: post
 title: Daily Task Summary  
 ---
-# Friday, September 13, 2019
-- MEMO: direction to the bueffet
+# Monday, July 15, 2019
+- MEMO: [submodule & subtree](https://stackoverflow.com/questions/41735992/how-can-i-mirror-a-directory-in-a-git-repo-into-another-git-repo)
+- MEMO: [filter branch forum](https://github.community/t5/How-to-use-Git-and-GitHub/Adding-a-folder-from-one-repo-to-another/td-p/5425)
 
 ## Tasks
-- [ ] TASK: luncheon at 2 pm
-- [ ] TASK: Thanksgiving Luncheon at 2 pm
 
 ## Notes
-- NOTE: [thanksgiving guest list](./13/thanksgiving_guest_list.md)
 
 ## timestamp
 <pre>
