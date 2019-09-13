@@ -1,6 +1,6 @@
 ---
+title: Style Guide
 layout: page
-title: Style Guide 
 ---
 
 ## Full Style Test

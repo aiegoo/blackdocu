@@ -1,8 +1,8 @@
 ---
+title: git log
+date: 2012-02-07 00:00:00 Z
 layout: post
-title: git log 
 ---
-
 
 <div class="message">
   git log outputs for the day!!
