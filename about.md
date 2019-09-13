@@ -1,6 +1,6 @@
 ---
-layout: page
 title: mySchedule
+layout: page
 ---
 
 <p class="message">

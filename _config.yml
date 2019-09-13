@@ -1,31 +1,27 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Setup
-title:            tonylee 
-tagline:          Seasoned webDevOps
-description:      "hmmm"
-url:              aiegoo.github.io
-baseurl:          /blackdocu/
-                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
-                  # This will apply to all pages in your Jekyll site.
-
+---
+title: tonylee
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+highlighter: rouge
+tagline: Seasoned webDevOps
+description: hmmm
+url: aiegoo.github.io
+baseurl: "/blackdocu/"
 author:
-  name:           tonylee
-  url:            https://github.com/aiegoo
-
-paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
-
+  name: tonylee
+  url: https://github.com/aiegoo
+paginate: 5
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-# Custom vars
-version:            2.0.1
-
+- jekyll-feed
+- jekyll-gist
+- jekyll-paginate
+version: 2.0.1
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo: https://github.com/karloespiritu/blackdoc
